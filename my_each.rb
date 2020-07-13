@@ -6,4 +6,4 @@ def my_each(words)
      i=i+1
   end
 end
-  
+  binding.pry
